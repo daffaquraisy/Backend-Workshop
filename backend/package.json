@@ -55,6 +55,5 @@
     "ts-jest": "^29.0.5",
     "typescript": "^4.9.5"
   },
-  "author": "daffaquraisy",
   "license": "ISC"
 }
